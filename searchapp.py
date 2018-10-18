@@ -4,7 +4,6 @@ from googlesearch import search
 from newspaper import Article
 from urllib.request import urlopen
 import urllib
-import re
 import json
 
 
